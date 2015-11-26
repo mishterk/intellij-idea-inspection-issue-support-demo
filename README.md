@@ -1,4 +1,6 @@
 #A demo for JetBrains support staff.
+
+**Problems occurring in Intellij IDEA v 15.0.1**
  
 The namespaced `include.php` file contains class, along with a function that returns an instance of the class. 
 The `main.php` file includes the `include.php` file, then makes a call to the function.
