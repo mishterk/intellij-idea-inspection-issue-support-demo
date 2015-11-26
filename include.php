@@ -7,7 +7,7 @@ namespace MyNamespace;
  * @package MyNamespace
  */
 class TestClass {
-	function testMethod(){}
+	public function testMethod() { }
 }
 
 /**
